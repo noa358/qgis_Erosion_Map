@@ -1,0 +1,25 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.
+
+[general]
+name=Erosion Map
+about=This tool takes in an old point cloud, a new point cloud, and a visual reference map to create an overlaid heatmap that highlights areas where coastal deposits have been made in red and highlights erosion in blue.
+description=Tool to create coastal change heatmaps from point clouds
+version=1.0
+qgisMinimumVersion=3.0
+
+changelog=1.0
+      * first version
+
+homepage=http://g-sherman.github.io/Qgis-Plugin-Builder
+tracker=https://github.com/g-sherman/Qgis-Plugin-Builder/issues
+repository=https://github.com/g-sherman/Qgis-Plugin-Builder
+tags=coastal change, erosion
+icon=icon.png
+
+experimental=False
+deprecated=False
+
+author=Noa David
+email=noadavid@hotmail.co.uk
