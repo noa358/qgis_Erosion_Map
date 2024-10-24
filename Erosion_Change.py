@@ -110,7 +110,7 @@ class ErosionMap(QgsProcessingAlgorithm):
         # Set layer style
         alg_params = {
             'INPUT': outputs['LoadLayerIntoProject']['OUTPUT'],
-            'STYLE': 'C:\\Users\\noada\\Desktop\\RSK\\style.qml',
+            'STYLE': 'qgis_Erosion_Map\\style.qml',
             'OUTPUT': '{0}\\{1}.tif'.format(parameters['data_export_destination'], parameters['ErosionMap'])
         }
         outputs['SetLayerStyle'] = processing.run('native:setlayerstyle', alg_params, context=context, feedback=feedback, is_child_algorithm=True)
