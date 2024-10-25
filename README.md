@@ -9,7 +9,7 @@ This kind of analysis is especially useful for anticipating risks to infrastruct
 
 (For Britain, use CRS: OSG36 / British National Grid.)
 
-## Screenshot:
+## Screenshots:
 
 ![Image](media/example.png)\
 Erosion map of Port Isaac and surrounding area
