@@ -15,7 +15,8 @@ This kind of analysis is especially useful for anticipating risks to infrastruct
 
 Erosion map of Port Isaac and surrounding area
 
-
+\n
+\n
 
 ![Image](media/UI.png)
 
