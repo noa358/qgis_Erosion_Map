@@ -10,7 +10,7 @@ version=0.1
 author=Noa David
 email=noadavid@hotmail.co.uk
 
-about=This tool takes in an old point cloud, a new point cloud, and a visual reference map to create an overlaid heatmap that highlights areas where coastal deposits have been made in red and highlights erosion in blue.
+about=This tool takes in an old point cloud, a new point cloud, and a visual reference map to create an overlaid heatmap that highlights areas where coastal deposits have been made in blue and highlights erosion in red. This kind of analysis is especially useful for anticipating risks to infrastructure near coastlines.
 
 tracker=https://github.com/noa358/qgis_Erosion_Map/issues
 repository=https://github.com/noa358/qgis_Erosion_Map
