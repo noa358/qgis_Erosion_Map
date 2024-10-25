@@ -12,7 +12,7 @@ This kind of analysis is especially useful for anticipating risks to infrastruct
 ## Screenshot:
 
 ![Image](media/example.png)\
-Erosion map of Port Isaac and surrounding area\\\
+Erosion map of Port Isaac and surrounding area
 
 
 ![Image](media/UI.png)\
