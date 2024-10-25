@@ -11,13 +11,10 @@ This kind of analysis is especially useful for anticipating risks to infrastruct
 
 ## Screenshot:
 
-![Image](media/example.png)
-
+![Image](media/example.png)\
 Erosion map of Port Isaac and surrounding area
+\
+\
 
-\n
-\n
-
-![Image](media/UI.png)
-
+![Image](media/UI.png)\
 Plugin UI
