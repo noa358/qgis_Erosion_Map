@@ -18,7 +18,7 @@ Erosion map of river delta in Exmouth showing changes between 2006 and 2020.
 Erosion map of Seaton Bay showing changes between 2006 and 2020.
 
 ![Image](media/Port_Isaac.png)\
-Erosion map of Port Isaac and surrounging area showing changes between 2007 and 2022.
+Erosion map of Port Isaac and surrounding area showing changes between 2007 and 2022.
 
 ![Image](media/UI.png)\
 Plugin UI
